@@ -24,11 +24,11 @@
 
 ###
 
-<h1 align="center">👋 Hi, I’m David Domingo</h1>
+<h1 align="center">👋 Heya, I’m David </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🧑‍💻 About Me</h3>
 
 ###
 
@@ -48,12 +48,7 @@
 </ul>
 
 <p align="left">
-  I work like a staff engineer, think like a founder, and ship like someone who knows the burn rate.
-  <br><br>
-  📫 <strong>Let’s Connect:</strong> <br>
-  I’m open to roles, collaborations, or advisory gigs where deep product thinking meets technical execution.  
-  <br><br>
-  Whether you're building from zero, scaling fast, or just want to jam on applied AI—let’s talk.
+  I work like a staff engineer, think like a founder, and ship like someone who knows the burn rate. <img src="https://media.tenor.com/N8PjzW2fyIcAAAAM/peepogiggle.gif" alt="peepogiggle" width="32" height="32" />
 </p>
 
 ###
