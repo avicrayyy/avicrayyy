@@ -32,7 +32,29 @@
 
 ###
 
-<p align="left">I build scalable systems from zero to one—especially in fast-moving, resource-constrained environments.  <br><br>I’ve led frontend and fullstack efforts in pre-product startups, architected monorepos, built design systems, and shipped user-facing apps across web and mobile.  <br><br>Lately, I’ve been focused on:<br>- 🧠 AI tooling and infrastructure — building LLM-integrated tools and testing frameworks  <br>- 🔌 API-first products — shipping endpoints for teams that need AI superpowers without the overhead  <br>- ⚙️ Developer experience — creating reusable components, internal CLIs, and automations that make engineering teams faster and saner  <br>- 🎯 Startup loops — from prototyping to investor demos to production deployments<br><br>I work like a staff engineer, think like a founder, and ship like someone who knows the burn rate.<br><br>📫 Let’s Connect: <br>I’m open to roles, collaborations, or advisory gigs where deep product thinking meets technical execution.  <br><br>Whether you're building from zero, scaling fast, or just want to jam on applied AI—let’s talk.</p>
+<p align="left">
+  I build scalable systems from zero to one—especially in fast-moving, resource-constrained environments.  
+  <br><br>
+  I’ve led frontend and fullstack efforts in pre-product startups, architected monorepos, built design systems, and shipped user-facing apps across web and mobile.  
+  <br><br>
+  Lately, I’ve been focused on:
+</p>
+
+<ul align="left">
+  <li>🧠 <strong>AI tooling and infrastructure</strong> — building LLM-integrated tools and testing frameworks</li>
+  <li>🔌 <strong>API-first products</strong> — shipping endpoints for teams that need AI superpowers without the overhead</li>
+  <li>⚙️ <strong>Developer experience</strong> — creating reusable components, internal CLIs, and automations that make engineering teams faster and saner</li>
+  <li>🎯 <strong>Startup loops</strong> — from prototyping to investor demos to production deployments</li>
+</ul>
+
+<p align="left">
+  I work like a staff engineer, think like a founder, and ship like someone who knows the burn rate.
+  <br><br>
+  📫 <strong>Let’s Connect:</strong> <br>
+  I’m open to roles, collaborations, or advisory gigs where deep product thinking meets technical execution.  
+  <br><br>
+  Whether you're building from zero, scaling fast, or just want to jam on applied AI—let’s talk.
+</p>
 
 ###
 
